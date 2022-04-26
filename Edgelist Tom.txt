@@ -1,0 +1,13 @@
+id,from,to,weight,relation
+Tom,Jannik,3,friend
+Jannik,Tom,3,friend
+Fabio,Tom,2,kom
+Tom,Fabio,2,kom
+Ingrid,Tom,3,mum
+Tom,Ingrid,3,mum
+Jannik,Ingrid,1,bekan
+Ingrid,Jannik,1,bekan
+Antje,Ingrid,3,friend
+Ingrid,Antje,3,friend
+Antje,Tom,2,ratge
+Tom,Antje,2,ratge
