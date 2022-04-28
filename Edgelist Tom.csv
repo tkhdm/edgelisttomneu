@@ -1,4 +1,4 @@
-id,from,to,weight,relation
+from,to,weight,relation
 Tom,Jannik,3,friend
 Jannik,Tom,3,friend
 Fabio,Tom,2,kom
